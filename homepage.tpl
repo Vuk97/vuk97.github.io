@@ -15,7 +15,7 @@
 						data-easing="Back.easeOut"
 						data-endspeed="300"
 						data-captionhidden="on"
-						style="z-index: 5"><img src="templates/{$template}/html/images/sliders/slide7_img1.png" alt="" /> </div>
+						style="z-index: 5"><img src="templates/{$template}/html/images/sliders/slide7_bg.png" alt="" /> </div>
         <div class="tp-caption offerbadge two sft"
 						data-x="543"
 						data-hoffset="0"
@@ -541,6 +541,61 @@
 </div>
 <!--/ .section_holder31-->
 
+<div class="punchtext">
+	<div class="container">
+	  <div class="text">
+		<h4 class="white margin_top1">Get Excellent Unique Web Hosting Layouts With HostGrid</h4>
+	  </div>
+	  <div class="but"> <a href="#" class="readmore_but2">Buy now!</a> </div>
+	</div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="section_holder43">
+	<div class="container">
+	  <div class="one_third">
+		<h4 class="uppercase lessmar">Creating a</h4>
+		<h1 class="bold uppercase lessmar">New Website?</h1>
+		<h6>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </h6>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis.</p>
+		<br/>
+		<ol class="list_st4">
+		  <li>Consectetuer adipiscing elit suspendisse adipiscing elit suspendisse</li>
+		  <li> Hendrerit augue Cras tellus In pulvinar Hendrerit augue Cras tellus In pulvinar</li>
+		  <li> Rutrum adipiscing luctus nisl magna adipiscing</li>
+		</ol>
+	  </div>
+	  <!--/ .one-third-->
+	  
+	  <div class="one_third">
+		<div class="img_middle">
+		  <div class="badge">
+			<div class="text"> Get up to<br/>
+			  <span>60% OFF</span><br/>
+			  on Hosting </div>
+		  </div>
+		  <!--end offer--> 
+		  <img src="templates/{$template}/html/images/site-img82.jpg" alt=""/></div>
+	  </div>
+	  <!--/ .one-third-->
+	  
+	  <div class="one_third last">
+		<h4 class="uppercase lessmar">Coming from</h4>
+		<h1 class="bold uppercase lessmar">Another Host?</h1>
+		<h6>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </h6>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis.</p>
+		<br/>
+		<ol class="list_st4">
+		  <li>Consectetuer adipiscing elit suspendisse adipiscing elit suspendisse</li>
+		  <li> Hendrerit augue Cras tellus In pulvinar Hendrerit augue Cras tellus In pulvinar</li>
+		  <li> Rutrum adipiscing luctus nisl magna adipiscing</li>
+		</ol>
+	  </div>
+	  <!--/ .one-third--> 
+	  
+	</div>
+  </div>
+  <!--/ .section_holder43-->
+
 <div class="section_holder42">
   <div class="container">
     <h1 class="lt_title_big">Welcome to <span>HostGrid</span></h1>
@@ -586,60 +641,7 @@
 </div>
 <!--/ .section_holder42-->
 
-<div class="punchtext">
-  <div class="container">
-    <div class="text">
-      <h4 class="white margin_top1">Get Excellent Unique Web Hosting Layouts With HostGrid</h4>
-    </div>
-    <div class="but"> <a href="#" class="readmore_but2">Buy now!</a> </div>
-  </div>
-</div>
-<div class="clearfix"></div>
-<div class="section_holder43">
-  <div class="container">
-    <div class="one_third">
-      <h4 class="uppercase lessmar">Creating a</h4>
-      <h1 class="bold uppercase lessmar">New Website?</h1>
-      <h6>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </h6>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis.</p>
-      <br/>
-      <ol class="list_st4">
-        <li>Consectetuer adipiscing elit suspendisse adipiscing elit suspendisse</li>
-        <li> Hendrerit augue Cras tellus In pulvinar Hendrerit augue Cras tellus In pulvinar</li>
-        <li> Rutrum adipiscing luctus nisl magna adipiscing</li>
-      </ol>
-    </div>
-    <!--/ .one-third-->
-    
-    <div class="one_third">
-      <div class="img_middle">
-        <div class="badge">
-          <div class="text"> Get up to<br/>
-            <span>60% OFF</span><br/>
-            on Hosting </div>
-        </div>
-        <!--end offer--> 
-        <img src="templates/{$template}/html/images/site-img82.jpg" alt=""/></div>
-    </div>
-    <!--/ .one-third-->
-    
-    <div class="one_third last">
-      <h4 class="uppercase lessmar">Coming from</h4>
-      <h1 class="bold uppercase lessmar">Another Host?</h1>
-      <h6>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. </h6>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse et justo. Praesent mattis.</p>
-      <br/>
-      <ol class="list_st4">
-        <li>Consectetuer adipiscing elit suspendisse adipiscing elit suspendisse</li>
-        <li> Hendrerit augue Cras tellus In pulvinar Hendrerit augue Cras tellus In pulvinar</li>
-        <li> Rutrum adipiscing luctus nisl magna adipiscing</li>
-      </ol>
-    </div>
-    <!--/ .one-third--> 
-    
-  </div>
-</div>
-<!--/ .section_holder43-->
+
 
 <div class="clearfix"></div>
 
