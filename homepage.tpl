@@ -55,7 +55,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6">Get Excellent</div>
+						style="z-index: 6">Create or transfer</div>
         <div class="tp-caption text2 white sfb"
 						data-x="0"
 						data-hoffset="0"
@@ -67,7 +67,7 @@
 						data-endspeed="300"
 						data-endeasing="Power1.easeIn"
 						data-captionhidden="off"
-						style="z-index: 6">Unlimited Web Hosting</div>
+						style="z-index: 6">YOUR website with us today!</div>
         <div class="tp-caption slide_list2 sfb"
 						data-x="0"
 						data-hoffset="0"
